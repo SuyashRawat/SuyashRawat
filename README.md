@@ -36,7 +36,6 @@ Welcome to my GitHub profile! I'm a passionate and driven B.Tech student at JIIT
 
 Feel free to explore my repositories and connect with me for collaboration opportunities. Let's create something amazing together!
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SuyashRawat&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SuyashRawat&layout=compact&theme=radical)
 
 ## Profile Views
