@@ -38,8 +38,6 @@ Feel free to explore my repositories and connect with me for collaboration oppor
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SuyashRawat&layout=compact&theme=radical)
 
-## Profile Views
-![Profile Views](https://komarev.com/ghpvc/?username=SuyashRawat&color=blue)
 
 ## ICPC Certification
 Check out my ICPC certification: [ICPC Certificate](https://drive.google.com/file/d/1KzswFp6ZUPdj0r5VSY9MrxI4dDUFtRZ4/view?usp=sharing)
