@@ -21,17 +21,8 @@ Welcome to my GitHub profile! I'm a passionate and driven B.Tech student at JIIT
 ## Projects
 
 ### [LeetCode Visualizer](https://lc-insight.netlify.app/)
-A powerful tool to track and visualize your LeetCode progress. It provides detailed overviews of profiles, including solved problems, submission stats, and rankings. Users can compare their performance with others and view analytics with charts and graphs.
 
 ### [SmartQuizWebApp](https://smartquizwebapp.onrender.com)
-A web application to conduct quizzes and evaluate answers using the OpenAI API. Built with HTML, CSS, and JavaScript.
-
-### Chrome Extension Widgets
-Developed various widgets for a Chrome extension using the MERN stack:
-- **Spotify Music Player**: Integrated Spotify music player for seamless playback.
-- **Pomodoro Timer**: A productivity timer to help manage work sessions.
-- **News Feed from Twitter**: Shows the latest news from Twitter.
-- **Google Slides Integration**: Allows embedding and viewing Google Slides directly.
 
 ## Experience
 
