@@ -15,7 +15,7 @@ Welcome to my GitHub profile! I'm a passionate and driven B.Tech student at JIIT
 - **Database**: MongoDB
 - **Competitive Programming**:
   - CodeChef: 5-Star Coder [suyash_rawat](https://www.codechef.com/users/stackenqueue2)
-  - Codeforces: Expert [suyash_rawat](https://codeforces.com/profile/suyashrawat722)
+  - Codeforces: Expert [suyash_rawat](https://codeforces.com/profile/Suyash_R10)
   - LeetCode: Guardian [suyash_rawat](https://leetcode.com/stackenqueue2/)
 
 ## Projects
